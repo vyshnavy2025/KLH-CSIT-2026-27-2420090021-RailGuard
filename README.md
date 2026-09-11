@@ -1,4 +1,4 @@
-# 🚆 ADAPTIVE RAILWAY EMERGENCY MANAGEMENT SYSTEM
+# 🚆 RailGuard – Smart Emergency Response Platform
 
 ## 📌 Project Title
 
