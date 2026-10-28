@@ -2,7 +2,7 @@
 
 ## 📌 Project Title
 
-**ADAPTIVE RAILWAY EMERGENCY MANAGEMENT SYSTEM**
+**RailGuard – Smart Emergency Response Platform**
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## 📖 Abstract
 
-The **Adaptive Railway Emergency Management System** is designed to improve the **speed and effectiveness of railway emergency response**. The system allows passengers and railway staff to report emergencies such as **fire, medical issues, accidents, overcrowding, and suspicious activities** through a web or mobile application.
+The **RailGuard – Smart Emergency Response Platform** is designed to improve the **speed and effectiveness of railway emergency response**. The system allows passengers and railway staff to report emergencies such as **fire, medical issues, accidents, overcrowding, and suspicious activities** through a web or mobile application.
 
 Based on the **emergency type, severity, and location**, the system assigns an appropriate priority level and sends targeted notifications to **railway authorities, emergency response teams, and affected passengers**. A **centralized dashboard** enables authorities to monitor, assign, and track emergencies in real time.
 
@@ -96,7 +96,7 @@ The system aims to **reduce emergency response time, improve communication, enab
 ## 📂 Project Structure
 
 ```text
-ADAPTIVE-RAILWAY-EMERGENCY-MANAGEMENT-SYSTEM/
+RailGuard – Smart Emergency Response Platform/
 │
 ├── frontend/
 │   ├── src/
